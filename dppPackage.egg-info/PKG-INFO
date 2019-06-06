@@ -1,10 +1,10 @@
 Metadata-Version: 1.0
 Name: dppPackage
-Version: 0.3
+Version: 0.1
 Summary: Moja biblioteka
 Home-page: https://github.com/Adi125r/dppPackage
-Author: Maksymilian Guzdziol
-Author-email: mguzdziol233534@e-science.pl
+Author: Adrian Wojcieszek
+Author-email: awojciesz534@e-science.pl
 License: MIT
 Description: Prosta paczka pythonowa :)
 Platform: UNKNOWN

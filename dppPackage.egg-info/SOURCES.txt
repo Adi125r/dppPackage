@@ -1,12 +1,7 @@
 README.txt
 setup.py
-Meal/__init__.py
-Meal/dish.py
-Meal/person.py
-Meal/product.py
-ReadFile/__init__.py
-ReadFile/read.py
-ReadFile/write.py
+Szyfr/__init__.py
+Szyfr/zmiana.py
 dppPackage.egg-info/PKG-INFO
 dppPackage.egg-info/SOURCES.txt
 dppPackage.egg-info/dependency_links.txt
