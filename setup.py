@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='dppPackage',
-    version='0.2',
+    version='0.3',
     packages=['Szyfr'],
     license='MIT',
     description='Moja biblioteka',
